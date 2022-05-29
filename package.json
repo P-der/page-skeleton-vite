@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/P-der/page-skeleton-vite/issues"
   },
-  "homepage": "https://github.com/P-der/page-skeleton-vite#readme"
+  "homepage": "https://github.com/P-der/page-skeleton-vite#readme",
+  "dependencies": {
+    "puppeteer": "^14.1.1"
+  }
 }
