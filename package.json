@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +18,16 @@
   },
   "homepage": "https://github.com/P-der/page-skeleton-vite#readme",
   "dependencies": {
-    "puppeteer": "^14.1.1"
+    "puppeteer": "^14.1.1",
+    "express": "^4.16.3",
+    "sockjs": "^0.3.19",
+    "css-tree": "^2.1.0",
+    "js-beautify": "^1.7.5",
+    "html-minifier": "^3.5.16",
+    "html2json": "^1.0.2",
+    "hasha": "^3.0.0",
+    "qrcode": "^1.2.0",
+    "opn": "^5.3.0",
+    "memory-fs": "^0.4.1"
   }
 }
